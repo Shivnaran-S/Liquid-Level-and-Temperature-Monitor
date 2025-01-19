@@ -1,4 +1,4 @@
-Liquid Level and Temperature Monitor
+##Liquid Level and Temperature Monitor
 
 The thermal and level identifier of liquid can be used in the manufacturer sector. As it is automated it reduces the manpower and improves the production. It doesn’t produce any fault in it, thus wastage of loss is neglected.
 
@@ -51,7 +51,7 @@ Connect middle pin to one leg of a 4.7K ohm resistor and connect that resistor�
 Connect one end pin to black wire of fan
 Another end pin to arduino’s 5 volt
 
-Code implementation: using c++
+Code implementation: using C++
 Software | Arduino https://www.arduino.cc/en/software
 
 NEW LEARNINGS:
